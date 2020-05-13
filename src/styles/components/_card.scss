@@ -27,11 +27,7 @@
 	@include respond(bp900) {
 		flex-direction: column;
 		width: 100%;
-		min-width: 30rem;
-	}
-
-	@include respond(bp600) {
-		width: 48rem;
+		min-width: 36rem;
 	}
 
 	&__title {
