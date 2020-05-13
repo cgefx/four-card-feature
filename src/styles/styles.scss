@@ -1,6 +1,10 @@
 // Base
 @import 'base/theme';
+@import 'base/media';
 @import 'base/global';
+@import 'base/typography';
 
-// Layout
+// Components
 @import 'components/layout';
+@import 'components/card';
+@import 'components/header';

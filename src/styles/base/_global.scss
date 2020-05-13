@@ -1,5 +1,14 @@
 html {
 	box-sizing: border-box;
+	font-size: 62.5%; // 1rem = 10px
+
+	@include respond(bp900) {
+		font-size: 56.25%; //1rem = 8px, 8/16 = 50%
+	}
+
+	@include respond(bp600) {
+		font-size: 50%; //1rem = 8px, 8/16 = 50%
+	}
 }
 *,
 *:before,
@@ -15,4 +24,14 @@ body {
 	font-family: 'Poppins', sans-serif;
 	color: $color-dark-blue;
 	background-color: $color-light-gray;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin-top: 0;
+	margin-bottom: 0.5rem;
 }
