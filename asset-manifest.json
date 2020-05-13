@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/four-card-feature/static/css/main.d7825ac3.chunk.css",
+    "main.css": "/four-card-feature/static/css/main.e9175986.chunk.css",
     "main.js": "/four-card-feature/static/js/main.ebb23100.chunk.js",
     "main.js.map": "/four-card-feature/static/js/main.ebb23100.chunk.js.map",
     "runtime-main.js": "/four-card-feature/static/js/runtime-main.f539d5b8.js",
@@ -8,9 +8,9 @@
     "static/js/2.e8910bd6.chunk.js": "/four-card-feature/static/js/2.e8910bd6.chunk.js",
     "static/js/2.e8910bd6.chunk.js.map": "/four-card-feature/static/js/2.e8910bd6.chunk.js.map",
     "index.html": "/four-card-feature/index.html",
-    "precache-manifest.36178d381518192c1f267b2257ec35d8.js": "/four-card-feature/precache-manifest.36178d381518192c1f267b2257ec35d8.js",
+    "precache-manifest.2e0f222121c3470a39f2295ef34966f4.js": "/four-card-feature/precache-manifest.2e0f222121c3470a39f2295ef34966f4.js",
     "service-worker.js": "/four-card-feature/service-worker.js",
-    "static/css/main.d7825ac3.chunk.css.map": "/four-card-feature/static/css/main.d7825ac3.chunk.css.map",
+    "static/css/main.e9175986.chunk.css.map": "/four-card-feature/static/css/main.e9175986.chunk.css.map",
     "static/js/2.e8910bd6.chunk.js.LICENSE.txt": "/four-card-feature/static/js/2.e8910bd6.chunk.js.LICENSE.txt",
     "static/media/icon-calculator.svg": "/four-card-feature/static/media/icon-calculator.8e4a5574.svg",
     "static/media/icon-karma.svg": "/four-card-feature/static/media/icon-karma.ae2dc13d.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.f539d5b8.js",
     "static/js/2.e8910bd6.chunk.js",
-    "static/css/main.d7825ac3.chunk.css",
+    "static/css/main.e9175986.chunk.css",
     "static/js/main.ebb23100.chunk.js"
   ]
 }

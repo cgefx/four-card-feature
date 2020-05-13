@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fd8007bf0a716c0a636bb2a10477d98",
+    "revision": "30b2673da4d78ac7dea798d5620ef7be",
     "url": "/four-card-feature/index.html"
   },
   {
-    "revision": "e894d66e5a55e1377959",
-    "url": "/four-card-feature/static/css/main.d7825ac3.chunk.css"
+    "revision": "647e95d10289a898a082",
+    "url": "/four-card-feature/static/css/main.e9175986.chunk.css"
   },
   {
     "revision": "150be8118e4a158f9b52",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/four-card-feature/static/js/2.e8910bd6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e894d66e5a55e1377959",
+    "revision": "647e95d10289a898a082",
     "url": "/four-card-feature/static/js/main.ebb23100.chunk.js"
   },
   {
