@@ -2,6 +2,10 @@
 	max-width: 1440px;
 	margin: 6.4rem auto;
 	padding: 2.4rem;
+
+	@include respond(bp600) {
+		padding-top: 1rem;
+	}
 }
 
 .section {
