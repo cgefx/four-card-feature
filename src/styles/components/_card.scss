@@ -7,7 +7,22 @@
 	min-width: 30rem;
 	box-shadow: $box-shadow-high;
 	border-radius: 8px;
-	border-top: 5px solid $color-cyan;
+
+	&--cyan {
+		border-top: 5px solid $color-cyan;
+	}
+
+	&--red {
+		border-top: 5px solid $color-red;
+	}
+
+	&--orange {
+		border-top: 5px solid $color-orange;
+	}
+
+	&--blue {
+		border-top: 5px solid $color-blue;
+	}
 
 	@include respond(bp900) {
 		flex-direction: column;

@@ -27,7 +27,7 @@ function App() {
 					<div className='row'>
 						{/* Column 1 */}
 						<div className='column flex-center'>
-							<div className='card column'>
+							<div className='column card card--cyan'>
 								<div className='card__title'>
 									<h2>Supervisor</h2>
 								</div>
@@ -43,7 +43,7 @@ function App() {
 						</div>
 						{/* Column 2 */}
 						<div className='column flex-center'>
-							<div className='card column'>
+							<div className='column  card card--red'>
 								<div className='card__title'>
 									<h2>Team Builder</h2>
 								</div>
@@ -56,7 +56,7 @@ function App() {
 									<img src={teamBuilder} alt='' />
 								</div>
 							</div>
-							<div className='card column'>
+							<div className='column card card--orange'>
 								<div className='card__title'>
 									<h2>Karma</h2>
 								</div>
@@ -72,7 +72,7 @@ function App() {
 						</div>
 						{/* Column 3 */}
 						<div className='column flex-center'>
-							<div className='card column'>
+							<div className='column  card card--blue'>
 								<div className='card__title'>
 									<h2>Calculator</h2>
 								</div>
