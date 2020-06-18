@@ -1,0 +1,75 @@
+//FONT SIZES
+$default-font-size: 1.5rem;
+
+// Primary Colors
+$color-red: hsl(0, 78%, 62%);
+$color-cyan: hsl(180, 62%, 55%);
+$color-orange: hsl(34, 97%, 64%);
+$color-blue: hsl(212, 86%, 64%);
+$color-blue-light: hsla(212, 86%, 64%, 0.4);
+
+// Neutral Colors
+$color-dark-blue: hsl(234, 12%, 34%);
+$color-gray-blue: hsl(229, 6%, 66%);
+$color-light-gray: hsl(0, 0%, 98%);
+
+// Shadows
+$box-shadow-high: 0 10px 40px -15px $color-blue-light;
+$box-shadow-hover: 0 8px 20px -15px rgba(0, 0, 0, 0.2);
+
+html {
+	box-sizing: border-box;
+	font-size: 62.5%; // 1rem = 10px
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.4;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-family: 'Poppins', sans-serif;
+	color: $color-dark-blue;
+	background-color: $color-light-gray;
+	font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin-top: 0;
+	margin-bottom: 0.5rem;
+}
+
+// LAYOUT
+.container {
+	max-width: 1440px;
+	margin: 6.4rem auto;
+	padding: 2.4rem;
+}
+
+.grid {
+	display: flex;
+	flex-direction: column;
+}
+
+.column {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+// HEADER
+.header {
+	max-width: 50%;
+	margin: 0 auto;
+}
